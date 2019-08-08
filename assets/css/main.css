@@ -3873,7 +3873,12 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background-attachment: fixed;
+		position: fixed:
+			right:0;
+		bottom:0;
+		min-width:100%;
+		min-height:100%;
+		/*background-attachment: fixed;*/
 		background-image: url("nalcs-tl-notxt");
 		background-position: top right;
 		background-repeat: no-repeat;
