@@ -71,7 +71,7 @@ input, select, textarea {
 	appearance: none;
 }
 
-.fullscreen-bg {
+/*.fullscreen-bg {
     position: fixed;
     top: 0;
     right: 0;
@@ -111,6 +111,7 @@ input, select, textarea {
     .fullscreen-bg__video {
         display: none;
     }
+*/
 
 /* Basic */
 
