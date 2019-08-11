@@ -3465,7 +3465,7 @@ input, select, textarea {
 /* Wrapper (main) */
 
 	#sidebar + #wrapper {
-		margin-left: 15em;
+		margin-left: 16em;
 	}
 
 		@media screen and (max-width: 1280px) {
