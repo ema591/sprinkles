@@ -70,7 +70,7 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-
+/*
 .fullscreen-bg {
     position: fixed;
     top: 0;
@@ -111,7 +111,7 @@ input, select, textarea {
     .fullscreen-bg__video {
         display: none;
     }
-	
+	*/
 /* Basic */
 
 	@-ms-viewport {
