@@ -1,5 +1,13 @@
 @import url(fontawesome-all.min.css);
 
+/**
+	My Custom Edits
+**/
+
+#introTitle {
+    font-family: 'Amaranth', sans-serif;
+}
+
 /*
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
