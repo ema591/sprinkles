@@ -4,8 +4,8 @@
 	My Custom Edits
 **/
 
-/*#introTitle {
-     font-family: 'Amaranth', sans-serif; */
+#introTitle {
+   /* font-family: 'Amaranth', sans-serif;*/
 }
 
 /*
@@ -198,7 +198,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 6em;
+		font-size: 5em;
 	}
 
 		h1.major {
@@ -3871,7 +3871,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #889fa9;
+							background-color: #b74e91;
 						}
 
 		}
